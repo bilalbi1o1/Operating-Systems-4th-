@@ -70,3 +70,5 @@
 - The output of the ls command can be appended to a file in the following way. Results can be seen using the cat command.
 
 ![](./OSLab2/last.PNG)
+
+- GithubLink : https://github.com/bilalbi1o1/Operating-Systems-4th-/blob/main/Ubunto%20Basic%20Commands/Basic%20Ubuntu%20Commands.md
