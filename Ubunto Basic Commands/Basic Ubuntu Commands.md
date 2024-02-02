@@ -3,7 +3,7 @@
 - To create a file the  touch command is used.
 - Two files with names "19f_XXXX.txt" and "bilal.txt" are made using this command in figure 1.
 
-![](OSLab2\touch2.PNG "Figure 1")
+![](.\OSLab2\touch2.PNG "Figure 1")
 
 - Data is populated in these files by using the nano command which serve as a simple text editor for file.
 
